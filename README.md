@@ -1,5 +1,7 @@
 # bc-azure-invoice-archive
 
+Portfolio project by Evaldas Jablonskas, Microsoft Dynamics 365 Business Central AL / NAV Developer.
+
 A neutralized Microsoft Dynamics 365 Business Central AL portfolio sample for sending posted sales invoices by email and archiving invoice documents to Azure Blob Storage.
 
 ## Overview
