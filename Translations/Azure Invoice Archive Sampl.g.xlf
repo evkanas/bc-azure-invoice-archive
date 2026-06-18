@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Azure Invoice Archive Sampl">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 197727777 - NamedType 1468623692" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Sąskaita"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Invoice Email Archive - NamedType DocTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 197727777 - NamedType 1248124158" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Done</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Atlikta"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Invoice Email Archive - NamedType DoneLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 197727777 - NamedType 3351274" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to send!</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nėra ką siųsti!"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Invoice Email Archive - NamedType NotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 197727777 - NamedType 4280277748" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error %1</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Klaida %1"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Invoice Email Archive - NamedType OperationErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 197727777 - NamedType 2932411483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice posting date is required!</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Sąskaitos registravimo data yra privaloma!"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit EVK Invoice Email Archive - NamedType PostingDateErr</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selection - Mass Invoice's sending</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Ataskaitos pasirinkimas - masinis sąskaitų siuntimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 3318038509 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the email body layout that is used.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, kuris el. laiško turinio maketas yra naudojamas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control Email Body Layout Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 3004246684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the email body layout that is used.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, koks el. laiško turinio maketas yra naudojamas."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control Email Body Layout Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 3046817188 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the display name of the report.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo ataskaitos pavadinimą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control Report Caption - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 1272245069 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the object ID of the report.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo ataskaitos objekto ID."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control Report ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 4154341761 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a number that indicates where this report is in the printing order.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo numerį, kuris nurodo, kur ši ataskaita yra spausdinimo tvarkoje."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control Sequence - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 1083714199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to attach the related document to the email.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, ar reikia pridėti susijusį dokumentą prie el. laiško."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control Use for Email Attachment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 1794945120 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to insert summarized information, such as invoice number, due date in the body of the email that you send.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, ar reikia įterpti apibendrintą informaciją, pvz., sąskaitos numerį, terminą, į siunčiamo el. laiško turinį."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control Use for Email Body - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 887890843 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies which type of document the report is used for.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, kokio tipo dokumentui ataskaita yra naudojama."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control ReportUsage2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 887890843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Usage</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Naudojimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control ReportUsage2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3361276314 - Control 887890843 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Sending,Credit Invoice Sending</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Sąskaitų siuntimas,Kredito sąskaitų siuntimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page EVK Report Selection - Control ReportUsage2 - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 2301240554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered invoice sending</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Registruotas sąskaitos siuntimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVK SentEmailSalesInvHeader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2301240554 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered invoice sending</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Registruotas sąskaitos siuntimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVK SentEmailSalesInvHeader - Property AdditionalSearchTerms</note>
+        </trans-unit>
+        <trans-unit id="Report 2301240554 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Parinktys"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVK SentEmailSalesInvHeader - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2301240554 - Control 2135158743 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archives the invoice without sending it by email.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nusiųsti SF į arhyvą (nesiunčiant el. paštu)."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVK SentEmailSalesInvHeader - Control OnlyArchyvePadf - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2301240554 - Control 2135158743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Invoice Without Email</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nusiųsti SF į arhyvą (nesiunčiant el. paštu)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVK SentEmailSalesInvHeader - Control OnlyArchyvePadf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2301240554 - Control 4052400361 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to hide or show email dialog.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, ar norite slėpti, ar rodyti el. pašto dialogą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVK SentEmailSalesInvHeader - Control ShowEmailDialog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2301240554 - Control 4052400361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Email Dialog</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Rodyti el. pašto dialogą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVK SentEmailSalesInvHeader - Control ShowEmailDialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3462528011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice sending</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Sąskaitos siuntimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVKISSentEmailSalesCrMemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3462528011 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Parinktys"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVKISSentEmailSalesCrMemo - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3462528011 - Control 2135158743 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archives the invoice without sending it by email.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nusiųsti SF į arhyvą (nesiunčiant el. paštu)."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVKISSentEmailSalesCrMemo - Control OnlyArchyvePadf - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3462528011 - Control 2135158743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Invoice Without Email</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nusiųsti SF į arhyvą (nesiunčiant el. paštu)"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVKISSentEmailSalesCrMemo - Control OnlyArchyvePadf - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3462528011 - Control 4052400361 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to hide or show email dialog.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, ar norite slėpti, ar rodyti el. pašto dialogą."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVKISSentEmailSalesCrMemo - Control ShowEmailDialog - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3462528011 - Control 4052400361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Email Dialog</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Rodyti el. pašto dialogą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report EVKISSentEmailSalesCrMemo - Control ShowEmailDialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3777553639 - Action 760164219 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2557560783">
+          <source>Downloads the invoice file from Azure Blob Storage archive.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Atsisiunčia sąskaitos failą iš Azure Blob Storage archyvo."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Credit Memos - Action EVK Download Invoice From Archive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3777553639 - Action 760164219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2557560783">
+          <source>Download Invoice from Archive</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Atsisiųsti sąskaitą iš archyvo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Credit Memos - Action EVK Download Invoice From Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3777553639 - Action 1386313339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2557560783">
+          <source>Specifies which customer gets invoice pdf by email.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, kuris klientas gauna sąskaitos PDF el. paštu."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Credit Memos - Action EVKICSendingEmails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3777553639 - Action 1386313339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2557560783">
+          <source>Send Credit Invoice To Customer</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Siųsti kredito sąskaitą klientui",</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Credit Memos - Action EVKICSendingEmails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2356914381 - Action 130619931 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>Downloads the invoice file from Azure Blob Storage archive.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Atsisiunčia sąskaitos failą iš Azure Blob Storage archyvo."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Invoices - Action EVK Download Invoice from Archive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2356914381 - Action 130619931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>Download Invoice from Archive</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Atsisiųsti sąskaitą iš archyvo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Invoices - Action EVK Download Invoice from Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2356914381 - Action 1386313339 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>Specifies which customer gets invoice pdf by email.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo, kuris klientas gauna sąskaitos PDF el. paštu."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Invoices - Action EVKICSendingEmails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2356914381 - Action 1386313339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>Send Invoice To Customer</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Siųsti sąskaitą klientui",</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Posted Sales Invoices - Action EVKICSendingEmails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2726525106 - Control 2439189645 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies container name for invoice Storage.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo konteinerio pavadinimą sąskaitų saugojimui"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Sales &amp; Receivables Setup - Control EVKISContainerNameInvoice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2726525106 - Control 3213555800 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies shared key.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo Azure bendrą raktą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Sales &amp; Receivables Setup - Control EVKISSharedKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2726525106 - Control 2017232190 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies Azure storage account.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo Azure saugyklos paskyrą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Sales &amp; Receivables Setup - Control EVKISStorageAccount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2726525106 - Control 2220933844 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specifies Invoice archiving in Azure.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo sąskaitų archyvavimą Azure"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension EVK Sales &amp; Receivables Setup - Control EVKISUSEINVOICE - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3353570297 - Field 1389417459 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Specifies the archived invoice file name stored in Azure Blob Storage.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo archyvuotos sąskaitos failo pavadinimą, saugomą Azure Blob Storage."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK CredSalesHeader - Field EVK Archyved Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3353570297 - Field 1389417459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 552782286">
+          <source>Archived Invoice File Name</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Archyvuotos sąskaitos failo pavadinimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK CredSalesHeader - Field EVK Archyved Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 901595978 - Field 1389417459 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Specifies the archived invoice file name stored in Azure Blob Storage.</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Nurodo archyvuotos sąskaitos failo pavadinimą, saugomą Azure Blob Storage."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK SalesInvoiceHeader - Field EVK Archyved Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 901595978 - Field 1389417459 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Archived Invoice File Name</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Archyvuotos sąskaitos failo pavadinimas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK SalesInvoiceHeader - Field EVK Archyved Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3612778044 - Field 101039067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Invoice Container</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Sąskaitos konteineris"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK SalesReceivablesSetup - Field EVK Container Name Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3612778044 - Field 3528671378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Azure Shared Key</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Azure bendras raktas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK SalesReceivablesSetup - Field EVK Shared Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3612778044 - Field 3637361476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Azure Storage Account</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Azure saugyklos paskyra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK SalesReceivablesSetup - Field EVK Storage Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3612778044 - Field 3929581951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Use Invoice archiving</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Naudoti sąskaitų archyvavimą"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension EVK SalesReceivablesSetup - Field EVK Use Invoice Archiving - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2693473062 - EnumValue 2968402071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2593693414">
+          <source>Sending Invoices And Credit Invoices To Customers</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Siuntimas sąskaitas ir kredito sąskaitas klientams"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension EVK EmailScenario - EnumValue EVKMASSSHIPPINIGINVOICES - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 2693473062 - EnumValue 3095234142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2593693414">
+          <source>Sending Invoice (And Credit Invoice) BCC Letters</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Siuntimas sąskaitų (ir kredito sąskaitų) BCC laiškų"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension EVK EmailScenario - EnumValue EVKSendingInvoiceBCCLetters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 1233617989 - EnumValue 1540795710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3528066925">
+          <source>Mass shipping credit invoices</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Masinis siuntimas kredito sąskaitoms"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension EVK ReportSelectionUsage - EnumValue EVKMASSSHIPPINIGCREDIT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 1233617989 - EnumValue 2968402071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 3528066925">
+          <source>Mass shipping invoices</source>
+          <note from="Developer" annotates="general" priority="2">lt-LT="Masinis siuntimas sąskaitoms"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension EVK ReportSelectionUsage - EnumValue EVKMASSSHIPPINIGINVOICES - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

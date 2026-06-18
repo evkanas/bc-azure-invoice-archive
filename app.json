@@ -1,0 +1,26 @@
+﻿{
+    "id":  "1cef43a4-5b9d-4206-bb7c-01bd7399021e",
+    "name":  "Azure Invoice Archive Sampl",
+    "publisher":  "EVK Solutions",
+    "version":  "1.0.0.0",
+    "brief": "Portfolio sample for archiving posted sales invoices to Azure storage",
+    "description": "A neutralized Business Central AL portfolio sample for archiving posted sales invoice documents to Azure storage.",
+    "url":  "https://github.com/evkanas",
+    "logo":  "logo.png",
+    "screenshots":  [
+
+                    ],
+    "platform":  "28.0.0.0",
+    "application":  "28.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  70100,
+                         "to":  70199
+                     }
+                 ],
+    "runtime":  "17.0",
+    "features":  [
+                     "NoImplicitWith",
+                     "TranslationFile"
+                 ]
+}
