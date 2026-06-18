@@ -1,4 +1,4 @@
-# bc-azure-invoice-archive
+# BC Azure Invoice Archive
 
 Portfolio project by Evaldas Jablonskas, Microsoft Dynamics 365 Business Central AL / NAV Developer.
 
