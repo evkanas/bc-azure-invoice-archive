@@ -2,6 +2,10 @@
 
 Portfolio project by Evaldas Jablonskas, Microsoft Dynamics 365 Business Central AL / NAV Developer.
 
+<p align="center">
+  <img src="evaldas-jablonskas-bc-azure-invoice-archive.png" alt="Evaldas Jablonskas – BC Azure Invoice Archive Business Central AL portfolio project" width="700">
+</p>
+
 A neutralized Microsoft Dynamics 365 Business Central AL portfolio sample for sending posted sales invoices by email and archiving invoice documents to Azure Blob Storage.
 
 ## Overview
